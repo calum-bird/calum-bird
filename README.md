@@ -1,4 +1,4 @@
-## Hey there! My name is Calum.
+## Hello, my name is Calum.
 
 By day, I am the CEO at Trelent. I apply state of the art machine learning models to real-world problems. Trelent's mission is to put software development in the hands of the next billion people, and I work tirelessly every day to make that happen.
 
