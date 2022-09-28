@@ -1,6 +1,6 @@
 ## Hello, my name is Calum.
 
-By day, I am the CEO at Trelent. I apply state of the art machine learning models to real-world problems. Trelent's mission is to put software development in the hands of the next billion people, and I work tirelessly every day to make that happen.
+By day, I am the Founder of Trelent. I apply state of the art language models to solve real-world problems. Trelent's mission is to put software development in the hands of the next billion people, and I work tirelessly every day to make that happen.
 
 By night, I am a software developer and experimenter. I love to connect applications in new and interesting ways, keep up to date on the latest conversations and papers in NLP, and try to make sense of the philosophy around my own (and others) work in the space of machine learning. Typically this means engrossed in conversation with someone about these topics, walking around deep in thought, or writing.
 
