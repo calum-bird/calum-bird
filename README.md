@@ -9,7 +9,3 @@ For what it's worth, if you have both read this far, and the philosophy of artif
 
 ### Contact info:
 Email: [calum@trelent.net](mailto:calum@trelent.net)
-
-Discord: calum#1015
-
-Website: [calumbird.com](https://calumbird.com)
